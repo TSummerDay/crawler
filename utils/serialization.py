@@ -5,7 +5,7 @@ def save_file(path, res, file_name, file_type):
 
 
 def load_config():
-    config_path = "config.json"
+    config_path = "/root/zlw/crawler_cnki/config.json"
     import json
     f = open(config_path, 'r', encoding='UTF-8')
     config = json.load(f)
