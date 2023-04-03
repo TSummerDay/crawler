@@ -2,3 +2,4 @@ selenium
 requests
 wechatpy
 flask
+pycryptodome
